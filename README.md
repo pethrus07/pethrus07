@@ -64,15 +64,6 @@ Mentalidade **data-driven**, obsessão por **simplicidade** e por coisas que **f
 
 </div>
 
-## 📈 GitHub
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=pethrus07&show_icons=true&hide_border=true&count_private=true&bg_color=0D0D0D&title_color=A855F7&icon_color=A855F7&text_color=C4B5FD)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pethrus07&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=A855F7&text_color=C4B5FD)
-
-</div>
-
 ---
 
 <div align="center">
