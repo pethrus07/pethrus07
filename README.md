@@ -1,3 +1,4 @@
+<!-- perfil -->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2980,100:26d0ce&height=190&section=header&text=Pedro%20Oliveira&fontSize=56&fontColor=ffffff&animation=fadeIn&desc=%40pethrus07&descSize=18&descAlignY=62" width="100%"/>
