@@ -1,23 +1,23 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="200" height="185" viewBox="0 0 200 185" role="img" aria-label="Xicara de cafe fumegante">
   <defs>
     <linearGradient id="mug" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#1a2980"/>
-      <stop offset="1" stop-color="#26d0ce"/>
+      <stop offset="0" stop-color="#6d28d9"/>
+      <stop offset="1" stop-color="#a855f7"/>
     </linearGradient>
   </defs>
 
   <!-- Vapor -->
-  <g fill="none" stroke="#26d0ce" stroke-width="5" stroke-linecap="round">
+  <g fill="none" stroke="#a855f7" stroke-width="5" stroke-linecap="round">
     <path d="M80 78 C70 66 90 58 80 46 C72 36 86 28 80 18">
-      <animate attributeName="opacity" values="0;0.75;0" dur="3s" begin="0s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.8;0" dur="3s" begin="0s" repeatCount="indefinite"/>
       <animateTransform attributeName="transform" type="translate" values="0 10; 0 -16" dur="3s" begin="0s" repeatCount="indefinite"/>
     </path>
     <path d="M102 78 C92 66 112 58 102 46 C94 36 108 28 102 18">
-      <animate attributeName="opacity" values="0;0.75;0" dur="3s" begin="1s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.8;0" dur="3s" begin="1s" repeatCount="indefinite"/>
       <animateTransform attributeName="transform" type="translate" values="0 10; 0 -16" dur="3s" begin="1s" repeatCount="indefinite"/>
     </path>
     <path d="M124 78 C114 66 134 58 124 46 C116 36 130 28 124 18">
-      <animate attributeName="opacity" values="0;0.75;0" dur="3s" begin="2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.8;0" dur="3s" begin="2s" repeatCount="indefinite"/>
       <animateTransform attributeName="transform" type="translate" values="0 10; 0 -16" dur="3s" begin="2s" repeatCount="indefinite"/>
     </path>
   </g>
@@ -29,9 +29,9 @@
   <path d="M54 92 L154 92 L146 152 Q144 164 132 164 L76 164 Q64 164 62 152 Z" fill="url(#mug)"/>
 
   <!-- Superficie do cafe -->
-  <ellipse cx="104" cy="92" rx="50" ry="8.5" fill="#1b1030"/>
-  <ellipse cx="104" cy="92" rx="42" ry="6" fill="#3a2416"/>
+  <ellipse cx="104" cy="92" rx="50" ry="8.5" fill="#120421"/>
+  <ellipse cx="104" cy="92" rx="42" ry="6" fill="#2d1b4e"/>
 
   <!-- Pires -->
-  <ellipse cx="104" cy="173" rx="70" ry="8.5" fill="url(#mug)" opacity="0.45"/>
+  <ellipse cx="104" cy="173" rx="70" ry="8.5" fill="url(#mug)" opacity="0.4"/>
 </svg>
