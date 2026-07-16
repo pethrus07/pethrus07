@@ -75,5 +75,9 @@ Mentalidade **data-driven**, obsessão por **simplicidade** e por coisas que **f
 ---
 
 <div align="center">
-<sub>💬 Aberto a conversas sobre dados, sistemas em produção e problemas técnicos difíceis.</sub>
+
+<img src="https://raw.githubusercontent.com/pethrus07/pethrus07/main/coffee.svg" width="150" alt="cafe" />
+
+<sub>☕ Movido a café · aberto a conversas sobre dados, sistemas em produção e problemas técnicos difíceis.</sub>
+
 </div>
