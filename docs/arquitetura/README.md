@@ -11,7 +11,17 @@ cada uma numa notação padrão:
 
 Repositório especial pethrus07/pethrus07: o README aparece na página inicial da conta, em preto com roxo, e leva o visitante aos projetos públicos em destaque.
 
-![Perfil do GitHub · vitrine pethrus07](./perfil-github.svg)
+### Quem usa e para quê (UML)
+
+![Casos de uso · Perfil do GitHub · vitrine pethrus07](./perfil-github-1-casos-de-uso.svg)
+
+### Do projeto apresentável ao perfil no ar (BPMN 2.0)
+
+![Processo · Perfil do GitHub · vitrine pethrus07](./perfil-github-2-processo.svg)
+
+### Arquitetura (C4, containers)
+
+![Arquitetura · Perfil do GitHub · vitrine pethrus07](./perfil-github-3-arquitetura.svg)
 
 Editável: [`perfil-github.excalidraw`](./perfil-github.excalidraw), abre em [excalidraw.com](https://excalidraw.com) ou no VS Code com a extensão Excalidraw.
 
