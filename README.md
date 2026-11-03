@@ -1,50 +1,75 @@
-# Pedro Oliveira
+<!-- perfil -->
+<div align="center">
 
-English · [Português](README.pt-BR.md)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0b2e,100:7c3aed&height=190&section=header&text=Pedro%20Oliveira&fontSize=56&fontColor=e9d5ff&animation=fadeIn&desc=%40pethrus07&descSize=18&descAlignY=62" width="100%"/>
 
-I'm a developer from João Pessoa, Brazil, finishing a Computer Science degree at UNIPÊ.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=680&lines=Data-driven+developer+building+software+that+ships;Real+problems%2C+real+solutions%2C+real+production" alt="Typing SVG" />
 
-By day I'm Product Owner and QA at Parresia, a software company. I write what gets built, test it
-before it reaches people and keep the work moving.
+![Python](https://img.shields.io/badge/Python-0D0D0D?style=for-the-badge&logo=python&logoColor=A855F7)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D0D0D?style=for-the-badge&logo=javascript&logoColor=A855F7)
+![Node.js](https://img.shields.io/badge/Node.js-0D0D0D?style=for-the-badge&logo=nodedotjs&logoColor=A855F7)
+![Flutter](https://img.shields.io/badge/Flutter-0D0D0D?style=for-the-badge&logo=flutter&logoColor=A855F7)
+![Django](https://img.shields.io/badge/Django-0D0D0D?style=for-the-badge&logo=django&logoColor=A855F7)
+![DuckDB](https://img.shields.io/badge/DuckDB-0D0D0D?style=for-the-badge&logo=duckdb&logoColor=A855F7)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-0D0D0D?style=for-the-badge&logo=cloudflare&logoColor=A855F7)
 
-On my own I run RYZE. I build and maintain the systems small businesses and factories use every
-day: a work order system for an engine rebuilding shop, an Android HMI for industrial machines on
-Google Play, event and file systems for a tour operator, a news site written by an automated
-newsroom, WhatsApp agents for several companies.
+</div>
 
-What I care about: software that runs in production, numbers that add up, few dependencies and
-tests that measure what a person actually sees. I'm moving toward data: statistics, pipelines and
-analytics.
+## 👾 Sobre
 
-## Work in production
+Desenvolvedor full-stack que **transforma problemas reais de negócio em software rodando em produção** — de portais multi-tenant e plataformas serverless em Cloudflare a pipelines de dados e sistemas industriais.
 
-| Project | What it is | Stack |
+Mentalidade **data-driven**, obsessão por **simplicidade** e por coisas que **funcionam de verdade**: números que batem, deploy leve e o mínimo de dependências possível.
+
+## 🚀 Projetos em destaque
+
+### 🌐 Plataformas & produtos em produção
+| Projeto | O que é | Stack |
 |---|---|---|
-| [celiware-ihm](https://github.com/pethrus07/celiware-ihm) | Ware IoT: portable industrial HMI, published on Google Play | Flutter · Modbus TCP |
-| [eventos-desbravando-utv](https://github.com/pethrus07/eventos-desbravando-utv) | UTV expedition management: participants, logistics, receivables and costs | Cloudflare Worker · D1 |
-| [minidrive-desbravando-utv](https://github.com/pethrus07/minidrive-desbravando-utv) | File archive for the same operator | Cloudflare Worker · R2 |
-| [instituto-automacao](https://github.com/pethrus07/instituto-automacao) | Industrial automation news site with an automated newsroom | TypeScript |
-| [commagente](https://github.com/pethrus07/commagente) | Multi-tenant WhatsApp AI agents | Node · Prisma · React |
-| [jms-refrigeracao](https://github.com/pethrus07/jms-refrigeracao) | Website for a refrigeration business | Static · Cloudflare |
+| **[eventos-desbravando-utv](https://github.com/pethrus07/eventos-desbravando-utv)** | Gestão de expedições/eventos — **em produção** | Cloudflare Worker · D1 |
+| **[minidrive-desbravando-utv](https://github.com/pethrus07/minidrive-desbravando-utv)** | Acervo de arquivos da operação (egress zero) | Cloudflare Worker · R2 |
+| **[expertwork](https://github.com/pethrus07/expertwork)** | Portal de créditos multi-tenant, **zero dependências** | Node.js puro |
+| **[industrially](https://github.com/pethrus07/industrially)** | CRM interno + portal de parceiros por indicação | Node.js |
 
-## Data and tools
-
-| Project | What it is | Stack |
+### 📊 Dados & automação
+| Projeto | O que é | Stack |
 |---|---|---|
-| [lead-lakehouse](https://github.com/pethrus07/lead-lakehouse) | Lead generation pipeline with enrichment and scoring | Python · DuckDB |
-| [atas](https://github.com/pethrus07/atas) | Ágora: meetings recorded, transcribed and analyzed on my own machine | Python · Whisper |
-| [esteira-qa](https://github.com/pethrus07/esteira-qa) | QA pipeline that measures documents, media, web pages and code | JavaScript |
-| [sinapse-app](https://github.com/pethrus07/sinapse-app) | My second brain: notes, agenda, finance and architecture diagrams | React · TypeScript |
-| [cortex-analytics-platform](https://github.com/pethrus07/cortex-analytics-platform) | Technical challenge: telemetry ETL, ML models and a dashboard | Python · scikit-learn · React |
+| **[lead-lakehouse](https://github.com/pethrus07/lead-lakehouse)** | Scraper → pipelines *medallion* → lakehouse → outreach | Python · DuckDB |
+| **[Projeto-Prosopyon](https://github.com/pethrus07/Projeto-Prosopyon)** | Engine de reconhecimento facial | Python · OpenCV · DeepFace |
+| **[Maryhouse](https://github.com/pethrus07/Maryhouse)** | Agendamentos com painel de indicadores e relatórios | Django · PostgreSQL |
 
-## Industry and mobile
-
-| Project | What it is | Stack |
+### 🏭 Indústria & mobile
+| Projeto | O que é | Stack |
 |---|---|---|
-| [machine_monitor](https://github.com/pethrus07/machine_monitor) | Factory monitoring: production, OEE and a leak test bench | Flutter |
-| [SmartDrinkApp](https://github.com/pethrus07/SmartDrinkApp) | Kiosk app that runs a drink machine | Flutter |
+| **[machine_monitor](https://github.com/pethrus07/machine_monitor)** | Monitoramento de produção/OEE + bancada de estanqueidade TEX | Flutter |
+| **[SmartDrinkApp](https://github.com/pethrus07/SmartDrinkApp)** | Máquina de drinks em modo kiosk (comanda as válvulas) | Flutter |
+| **[Andon-dashboard-flutter](https://github.com/pethrus07/Andon-dashboard-flutter)** | Dashboard Andon industrial | Flutter |
 
-## Stack
+## 🛠️ Tecnologias
 
-Python, JavaScript and TypeScript, Node.js, Dart and Flutter, Django, SQLite, PostgreSQL, DuckDB,
-Cloudflare Workers, D1 and R2, Playwright.
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-0D0D0D?style=flat-square&logo=python&logoColor=A855F7)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D0D0D?style=flat-square&logo=javascript&logoColor=A855F7)
+![Node.js](https://img.shields.io/badge/Node.js-0D0D0D?style=flat-square&logo=nodedotjs&logoColor=A855F7)
+![Dart](https://img.shields.io/badge/Dart-0D0D0D?style=flat-square&logo=dart&logoColor=A855F7)
+![Flutter](https://img.shields.io/badge/Flutter-0D0D0D?style=flat-square&logo=flutter&logoColor=A855F7)
+![Django](https://img.shields.io/badge/Django-0D0D0D?style=flat-square&logo=django&logoColor=A855F7)
+![SQLite](https://img.shields.io/badge/SQLite-0D0D0D?style=flat-square&logo=sqlite&logoColor=A855F7)
+![DuckDB](https://img.shields.io/badge/DuckDB-0D0D0D?style=flat-square&logo=duckdb&logoColor=A855F7)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-0D0D0D?style=flat-square&logo=cloudflare&logoColor=A855F7)
+![HTML5](https://img.shields.io/badge/HTML5-0D0D0D?style=flat-square&logo=html5&logoColor=A855F7)
+![CSS3](https://img.shields.io/badge/CSS3-0D0D0D?style=flat-square&logo=css3&logoColor=A855F7)
+![Git](https://img.shields.io/badge/Git-0D0D0D?style=flat-square&logo=git&logoColor=A855F7)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/pethrus07/pethrus07/main/coffee.svg" width="150" alt="cafe" />
+
+<sub>☕ Movido a café · aberto a conversas sobre dados, sistemas em produção e problemas técnicos difíceis.</sub>
+
+</div>
