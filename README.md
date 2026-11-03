@@ -21,29 +21,13 @@ Desenvolvedor full-stack que **transforma problemas reais de negócio em softwar
 
 Mentalidade **data-driven**, obsessão por **simplicidade** e por coisas que **funcionam de verdade**: números que batem, deploy leve e o mínimo de dependências possível.
 
-## 🚀 Projetos em destaque
+## 🚀 No ar
 
-### 🌐 Plataformas & produtos em produção
-| Projeto | O que é | Stack |
+| Projeto | O que é | Site |
 |---|---|---|
-| **[eventos-desbravando-utv](https://github.com/pethrus07/eventos-desbravando-utv)** | Gestão de expedições/eventos — **em produção** | Cloudflare Worker · D1 |
-| **[minidrive-desbravando-utv](https://github.com/pethrus07/minidrive-desbravando-utv)** | Acervo de arquivos da operação (egress zero) | Cloudflare Worker · R2 |
-| **[celiware-ihm](https://github.com/pethrus07/celiware-ihm)** | Ware IoT: IHM industrial portátil, **publicada no Google Play** | Flutter · Modbus TCP |
-| **[commagente](https://github.com/pethrus07/commagente)** | Agentes de IA no WhatsApp, multi-tenant | Node.js · Prisma · React |
-
-### 📊 Dados & automação
-| Projeto | O que é | Stack |
-|---|---|---|
-| **[lead-lakehouse](https://github.com/pethrus07/lead-lakehouse)** | Scraper → pipelines *medallion* → lakehouse → outreach | Python · DuckDB |
-| **[Projeto-Prosopyon](https://github.com/pethrus07/Projeto-Prosopyon)** | Engine de reconhecimento facial | Python · OpenCV · DeepFace |
-| **[Maryhouse](https://github.com/pethrus07/Maryhouse)** | Agendamentos com painel de indicadores e relatórios | Django · PostgreSQL |
-
-### 🏭 Indústria & mobile
-| Projeto | O que é | Stack |
-|---|---|---|
-| **[machine_monitor](https://github.com/pethrus07/machine_monitor)** | Monitoramento de produção/OEE + bancada de estanqueidade TEX | Flutter |
-| **[SmartDrinkApp](https://github.com/pethrus07/SmartDrinkApp)** | Máquina de drinks em modo kiosk (comanda as válvulas) | Flutter |
-| **[Andon-dashboard-flutter](https://github.com/pethrus07/Andon-dashboard-flutter)** | Dashboard Andon industrial | Flutter |
+| **[Ware IoT](https://github.com/pethrus07/celiware-ihm)** | IHM industrial portátil no Android, **publicada no Google Play** | [wareiot.com.br](https://wareiot.com.br) |
+| **[Instituto Automação](https://github.com/pethrus07/instituto-automacao)** | Portal de notícias de automação industrial com redação automática | [institutoautomacao.com.br](https://institutoautomacao.com.br) |
+| **[JMS Refrigeração](https://github.com/pethrus07/jms-refrigeracao)** | Site de uma empresa de refrigeração e gelo em João Pessoa | [ver o site](https://jms-refrigeracao.desbravando-utv.workers.dev) |
 
 ## 🛠️ Tecnologias
 
