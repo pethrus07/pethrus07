@@ -27,7 +27,7 @@ Mentalidade **data-driven**, obsessão por **simplicidade** e por coisas que **f
 |---|---|---|
 | **[Ware IoT](https://github.com/pethrus07/celiware-ihm)** | IHM industrial portátil no Android, **publicada no Google Play** | [wareiot.com.br](https://wareiot.com.br) |
 | **[Instituto Automação](https://github.com/pethrus07/instituto-automacao)** | Portal de notícias de automação industrial com redação automática | [institutoautomacao.com.br](https://institutoautomacao.com.br) |
-| **[JMS Refrigeração](https://github.com/pethrus07/jms-refrigeracao)** | Site de uma empresa de refrigeração e gelo em João Pessoa | [ver o site](https://jms-refrigeracao.desbravando-utv.workers.dev) |
+| **[Desbravando UTV](https://github.com/pethrus07/desbravando-site)** | Site de uma operadora de expedições off-road de UTV | [desbravandoutv.com](https://www.desbravandoutv.com) |
 
 ## 🛠️ Tecnologias
 
