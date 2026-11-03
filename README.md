@@ -3,7 +3,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0b2e,100:7c3aed&height=190&section=header&text=Pedro%20Oliveira&fontSize=56&fontColor=e9d5ff&animation=fadeIn&desc=%40pethrus07&descSize=18&descAlignY=62" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=680&lines=Data-driven+developer+building+software+that+ships;Real+problems%2C+real+solutions%2C+real+production" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=680&lines=Curious+by+nature%2C+developer+with+a+data+mind;Computer+Science+student+turning+problems+into+solutions" alt="Typing SVG" />
 
 ![Python](https://img.shields.io/badge/Python-0D0D0D?style=for-the-badge&logo=python&logoColor=A855F7)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D0D0D?style=for-the-badge&logo=javascript&logoColor=A855F7)
@@ -17,7 +17,7 @@
 
 ## 👾 Sobre
 
-Desenvolvedor full-stack que **transforma problemas reais de negócio em software rodando em produção** — de portais multi-tenant e plataformas serverless em Cloudflare a pipelines de dados e sistemas industriais.
+Desenvolvedor curioso, com **cabeça de dados**, e estudante de Ciência da Computação. Gosto de entender como as coisas funcionam e de **transformar problemas reais em soluções**: apps industriais, sites no ar, pipelines de dados e automações.
 
 Mentalidade **data-driven**, obsessão por **simplicidade** e por coisas que **funcionam de verdade**: números que batem, deploy leve e o mínimo de dependências possível.
 
