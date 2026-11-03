@@ -28,8 +28,8 @@ Mentalidade **data-driven**, obsessão por **simplicidade** e por coisas que **f
 |---|---|---|
 | **[eventos-desbravando-utv](https://github.com/pethrus07/eventos-desbravando-utv)** | Gestão de expedições/eventos — **em produção** | Cloudflare Worker · D1 |
 | **[minidrive-desbravando-utv](https://github.com/pethrus07/minidrive-desbravando-utv)** | Acervo de arquivos da operação (egress zero) | Cloudflare Worker · R2 |
-| **[expertwork](https://github.com/pethrus07/expertwork)** | Portal de créditos multi-tenant, **zero dependências** | Node.js puro |
-| **[industrially](https://github.com/pethrus07/industrially)** | CRM interno + portal de parceiros por indicação | Node.js |
+| **[celiware-ihm](https://github.com/pethrus07/celiware-ihm)** | Ware IoT: IHM industrial portátil, **publicada no Google Play** | Flutter · Modbus TCP |
+| **[commagente](https://github.com/pethrus07/commagente)** | Agentes de IA no WhatsApp, multi-tenant | Node.js · Prisma · React |
 
 ### 📊 Dados & automação
 | Projeto | O que é | Stack |
